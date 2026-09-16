@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+experiments/
+*.png
+.DS_Store
